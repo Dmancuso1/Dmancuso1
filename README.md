@@ -1,6 +1,6 @@
-## 👋 Hi, I’m @Dmancuso1
+## 👋 Hi, I’m Dane - @Dmancuso1
 
-# I am very passionate about web development and design
+# I am very passionate about web development and design 🕸💻
 
 ### 👀 I’m interested in:
   - Javascript, React, Next.js
