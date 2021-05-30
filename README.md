@@ -6,14 +6,13 @@
   - Javascript, React, Next.js
   - HTML5 & CSS3
   - Node.js, Exress
-  - Postgres, Ms Server
-  - Primsa ORM
-  - SAP Crystal (enterprise)
+  - Postgres with postgresSQL, Prisma and pgAdmin4 
+  - Ms Server with Sql Server Management Studio (SSMS)
+  - SAP Crystal (enterprise) for Reporting
   - SAP Navision (enterprise)
   - CLI
-  - Design
+  - UI/UX Design, Desktop & Mobile
   - Full Stack
-  - Reporting
   - Power BI
   
 ### 🌱 I’m currently learning
