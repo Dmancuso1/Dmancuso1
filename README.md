@@ -16,8 +16,8 @@
   - Power BI
   
 ### 🌱 I’m currently learning
-  - Power BI
-  - Next.Js
+  - Power BI (JSX)
+  - Next.js
 
 ### 💞️ I’m looking to collaborate on
   - full stack apps with node.js - express, React/Next,js, Postgres, HTML, CSS
