@@ -12,6 +12,7 @@
   - HTML5 & CSS3
   - Node.js 
   - Exress
+  - Middlewares
   - Postgres with postgresSQL, Prisma and pgAdmin4 
   - Ms Server with Sql Server Management Studio (SSMS)
   - SAP Crystal (enterprise) for Reporting
