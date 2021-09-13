@@ -32,7 +32,8 @@
   - Javascript
   - HTML5
   - CSS3
-  - Node.js, Exress
+  - Node.js
+  - Exress
   - React.js
   - Next.js (React)
   - SQL
@@ -52,6 +53,19 @@
 
 <b>Deployment:</b>
   - Heroku, Vercel
+
+<b>Middleware:</b>
+  - JSON Web Token (JWT)
+  - uuid
+  - axios
+  - nodemailer
+  - body-parser
+  - nodemon
+  - express-sslify
+  - react-don
+  - react-router-dom
+  - node-sass
+  - typescript
 
 <b>Styling and Design:</b>
   - Custom CSS
