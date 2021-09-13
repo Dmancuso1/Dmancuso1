@@ -46,6 +46,10 @@
   - SAP Crystal
   - Power BI
 
+<b>Version Control:</b>
+  - Git
+  - GitHub
+
 <b>Deployment:</b>
   - Heroku, Vercel
 
