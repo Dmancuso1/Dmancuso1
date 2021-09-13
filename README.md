@@ -54,7 +54,8 @@
   - GitHub
 
 <b>Deployment:</b>
-  - Heroku, Vercel
+  - Heroku
+  - Vercel
 
 <b>Middleware:</b>
   - JSON Web Token (JWT)
@@ -64,10 +65,9 @@
   - body-parser
   - nodemon
   - express-sslify
-  - react-don
+  - react-dom
   - react-router-dom
   - node-sass
-  - typescript
 
 <b>Styling and Design:</b>
   - Custom CSS
