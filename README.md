@@ -10,7 +10,8 @@
 ## 👀 I’m interested in:
   - Javascript, React, Next.js
   - HTML5 & CSS3
-  - Node.js, Exress
+  - Node.js 
+  - Exress
   - Postgres with postgresSQL, Prisma and pgAdmin4 
   - Ms Server with Sql Server Management Studio (SSMS)
   - SAP Crystal (enterprise) for Reporting
