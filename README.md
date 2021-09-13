@@ -2,7 +2,12 @@
 
 # I am very passionate about web development and design 🕸💻
 
-### 👀 I’m interested in:
+
+## 📫 How to reach me
+  - danegmancuso@gmail.com
+
+
+## 👀 I’m interested in:
   - Javascript, React, Next.js
   - HTML5 & CSS3
   - Node.js, Exress
@@ -14,16 +19,44 @@
   - UI/UX Design, Desktop & Mobile
   - Full Stack
   - Power BI
+
+## I'm currently working on:
+  - Creating a collection of fully styled, mobile friendly, HTML/CSS/REACT, customizable templates. 
+  - Other methods of deployment to what I'm currently doing. Looking at Digital Ocean as well as AWS.
+  - Personal Portfolio website.
+
   
-### 🌱 I’m currently learning
-  - Power BI (JSX)
-  - Next.js
+## 🌱 I’m currently working with:
 
-### 💞️ I’m looking to collaborate on
+<b>Frameworks and Languages:</b>
+  - Javascript
+  - HTML5
+  - CSS3
+  - Node.js, Exress
+  - React.js
+  - Next.js (React)
+
+<b>Databases:</b>
+  - Postgres (PostgreSQL)
+  - MS Server
+
+<b>Data Analytics/Reporting:</b>
+  - SAP Crystal
+
+<b>Deployment:</b>
+  - Heroku, Vercel
+
+<b>Styling and Design</b>
+  - Custom CSS
+  - Custom SCSS
+  - Flexbox
+  - Bootsrap
+
+
+
+
+## 💞️ I’m looking to collaborate on:
   - full stack apps with node.js - express, React/Next,js, Postgres, HTML, CSS
-
-### 📫 How to reach me
-  - danegmancuso@gmail.com
   
   
 
