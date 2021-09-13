@@ -30,50 +30,50 @@
   
 ## ✨ I’m currently working with:
 
-  <b>Frameworks and Languages:</b>
-    - Javascript
-    - HTML5
-    - CSS3
-    - Node.js
-    - Exress
-    - React.js
-    - Next.js (React)
-    - SQL
-    - PostgreSQL
+<b>Frameworks and Languages:</b>
+  - Javascript
+  - HTML5
+  - CSS3
+  - Node.js
+  - Exress
+  - React.js
+  - Next.js (React)
+  - SQL
+  - PostgreSQL
 
-  <b>Databases:</b>
-    - Postgres (PostgreSQL)
-    - MS Server
+<b>Databases:</b>
+  - Postgres (PostgreSQL)
+  - MS Server
 
-  <b>Data Analytics/Reporting:</b>
-    - SAP Crystal
-    - Power BI
+<b>Data Analytics/Reporting:</b>
+  - SAP Crystal
+  - Power BI
 
-  <b>Version Control:</b>
-    - Git
-    - GitHub
+<b>Version Control:</b>
+  - Git
+  - GitHub
 
-  <b>Deployment:</b>
-    - Heroku
-    - Vercel
+<b>Deployment:</b>
+  - Heroku
+  - Vercel
 
-  <b>Middleware:</b>
-    - JSON Web Token (JWT)
-    - uuid
-    - axios
-    - nodemailer
-    - body-parser
-    - nodemon
-    - express-sslify
-    - react-dom
-    - react-router-dom
-    - node-sass
+<b>Middleware:</b>
+  - JSON Web Token (JWT)
+  - uuid
+  - axios
+  - nodemailer
+  - body-parser
+  - nodemon
+  - express-sslify
+  - react-dom
+  - react-router-dom
+  - node-sass
 
-  <b>Styling and Design:</b>
-    - Custom CSS
-    - Custom SCSS
-    - Flexbox
-    - Bootsrap
+<b>Styling and Design:</b>
+  - Custom CSS
+  - Custom SCSS
+  - Flexbox
+  - Bootsrap
 
 
 
