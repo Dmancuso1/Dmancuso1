@@ -7,27 +7,6 @@
   - danegmancuso@gmail.com
 
 
-## 👀 I’m interested in:
-  - Javascript, React, Next.js
-  - HTML5 & CSS3
-  - Node.js 
-  - Exress
-  - Middlewares
-  - Postgres with postgresSQL, Prisma and pgAdmin4 
-  - Ms Server with Sql Server Management Studio (SSMS)
-  - SAP Crystal (enterprise) for Reporting
-  - SAP Navision (enterprise)
-  - CLI
-  - UI/UX Design, Desktop & Mobile
-  - Full Stack
-  - Power BI
-
-## 🌱  I'm currently working on:
-  - Creating a collection of fully styled, mobile friendly, HTML/CSS/REACT, customizable templates. 
-  - Other methods of deployment to what I'm currently doing. Looking at Digital Ocean as well as AWS.
-  - Personal Portfolio website.
-
-  
 ## ✨ I’m currently working with:
 
 <b>Frameworks and Languages:</b>
@@ -76,9 +55,30 @@
   - Bootsrap
 
 
+## 🌱  I'm currently working on:
+  - Creating a collection of fully styled, mobile friendly, HTML/CSS/REACT, customizable templates. 
+  - Other methods of deployment to what I'm currently doing. Looking at Digital Ocean as well as AWS.
+  - Personal Portfolio website.
+
+  
+## 👀 I’m interested in:
+  - Javascript, React, Next.js
+  - HTML5 & CSS3
+  - Node.js 
+  - Exress
+  - Middlewares
+  - Postgres with postgresSQL, Prisma and pgAdmin4 
+  - Ms Server with Sql Server Management Studio (SSMS)
+  - SAP Crystal (enterprise) for Reporting
+  - SAP Navision (enterprise)
+  - CLI
+  - UI/UX Design, Desktop & Mobile
+  - Full Stack
+  - Power BI
 
 
-## 💞️ I’m looking to collaborate on:
+
+## I’m looking to collaborate on:
   - full stack apps with node.js - express, React/Next,js, Postgres, HTML, CSS
   
   
