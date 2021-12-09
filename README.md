@@ -35,6 +35,7 @@
 <b>Deployment:</b>
   - Heroku
   - Vercel
+  - AWS S3
 
 <b>Middleware:</b>
   - JSON Web Token (JWT)
@@ -42,9 +43,7 @@
   - axios
   - nodemailer
   - body-parser
-  - nodemon
   - express-sslify
-  - react-dom
   - react-router-dom
   - node-sass
 
@@ -56,9 +55,9 @@
 
 
 ## 🌱  I'm currently working on:
+  - A CMS for content writers (articles, posts, etc..). A Full stack web app & API using the PERN stack. [view Repo!](https://github.com/Dmancuso1/creator_api)
   - Creating a collection of fully styled, mobile friendly, HTML/CSS/REACT, customizable templates. 
-  - Other methods of deployment to what I'm currently doing. Looking at Digital Ocean as well as AWS.
-  - Personal Portfolio website.
+  - Other methods of deployment to what I'm currently doing.
 
   
 ## 👀 I’m interested in:
