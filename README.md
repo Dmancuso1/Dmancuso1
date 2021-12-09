@@ -55,7 +55,7 @@
 
 
 ## 🌱  I'm currently working on:
-  - A CMS for content writers (articles, posts, etc..). A Full stack web app & API using the PERN stack. [view Repo!](https://github.com/Dmancuso1/creator_api)
+  - A CMS for content writers (articles, posts, etc..). A Full stack web app & API using the PERN stack. [View Repo!](https://github.com/Dmancuso1/creator_api)
   - Creating a collection of fully styled, mobile friendly, HTML/CSS/REACT, customizable templates. 
   - Other methods of deployment to what I'm currently doing.
 
